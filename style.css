@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    padding-top: 0px;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+button{
+    margin-top: 0px;
+    margin-right: 235px;
+    border: black solid 3px;
+    width: 170px;
+    height: 50px;
+    border-radius: 3ch;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: medium;
+}
+button:active{
+    transform: scale(0.95);
+}
+#shoes-name{
+    margin-top: 7px;
+    margin-right: 280px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#error-msg{
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+}
